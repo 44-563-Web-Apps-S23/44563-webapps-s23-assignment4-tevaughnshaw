@@ -1,0 +1,7 @@
+/* Add class styles */
+.name {color:blue; background-color: white;}
+.speech{font-family: 'Courier New', Courier, monospace; font-size: 12pt; color: black;}
+.direction{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 14pt; color: black; background-color: aqua;}
+.lane {color:purple}
+.mrsbauer{color: red}
+direction:hover{background-color: yellow; color: brown;}
